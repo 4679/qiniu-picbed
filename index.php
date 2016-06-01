@@ -32,7 +32,7 @@
     <div class="div" style="text-align:center;"><span style="display:block;cursor:pointer;font-weight:bold;" onClick="reupload();">再传一张</span></div>
     <div class="div" style="text-align:center;"><img id="pic" src="" border="0" style="max-width:468px;_width:468px;" /></div>
   </div>
-  <div class="div">利用七牛云存储为存储空间的免费、开源的图床系统。<br>开源地址：<a href="https://gitcafe.com/longmei/qiniu-picbed" style="color:#08C;" target="_blank">https://github.com/4679/qiniu-picbed</a><br>可以运行于任何PHP平台</div>
+  <div class="div">利用七牛云存储为存储空间的免费、开源的图床系统。<br>开源地址：<a href="https://github.com/4679/qiniu-picbed" style="color:#08C;" target="_blank">https://github.com/4679/qiniu-picbed</a><br>可以运行于任何PHP平台</div>
 </div>
 <div id="picqrdiv" style="display:none;">
 <div id="qrclose"><img src="/css/close.png" onclick="" alt="点击取消"></div>
